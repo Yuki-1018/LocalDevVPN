@@ -1,12 +1,12 @@
 /* MARK: Start Screen */
 
-"current_status" = "Current status";
+"current_status" = "現在のステータス";
 
-"disconnected" = "Disconnected";
-"connecting" = "Connecting";
-"connected" = "Connected";
-"disconnecting" = "Disconnecting";
-"error" = "Error";
+"disconnected" = "未接続";
+"connecting" = "接続中";
+"connected" = "接続済み";
+"disconnecting" = "切断中";
+"error" = "エラー";
 
 "local_tunnel_active" = "Local Tunnel Active";
 "local_tunnel_inactive" = "Local Tunnel Inactive";
@@ -18,7 +18,7 @@
 "open_settings_to_review_details" = "Open Settings to review details";
 "tap_connect_to_create_the_tunnel" = "Tap connect to create the tunnel";
 
-"connection" = "Connection";
+"connection" = "接続";
 "start_or_stop_the_secure_local_tunnel" = "Start or stop the secure local tunnel.";
 
 "connect" = "Connect";
@@ -43,51 +43,51 @@
 "assigned_ip" = "Assigned IP";
 
 /* MARK: Locales */
-"english"                  = "English";
-"spanish"                  = "Spanish";
-"italian"                  = "Italian";
-"polish"                   = "Polish";
-"korean"                   = "Korean";
-"TChinese" = "Traditional Chinese";
-"french" = "French";
-"japanese" = "Japanese";
+"english"                  = "英語";
+"spanish"                  = "スペイン語";
+"italian"                  = "イタリア語";
+"polish"                   = "ポーランド語";
+"korean"                   = "韓国語";
+"TChinese" = "繁体字中国語";
+"french" = "フランス語";
+"japanese" = "日本語";
 
 /* MARK: Settings */
 
-"connection_settings" = "Connection Settings";
-"auto_connect_on_launch" = "Auto Connect on Launch";
-"connection_logs" = "Connection Logs";
-"network_configuration" = "Network Configuration";
-"device_ip" = "Device IP";
-"tunnel_ip" = "Tunnel IP";
-"subnet_mask" = "Subnet Mask";
-"app_information" = "App Information";
-"privacy_policy" = "Privacy Policy";
-"data_collection_policy" = "Data Collection Policy";
-"app_version" = "App Version";
-"help_and_support" = "Help and Support";
-"language" = "Set Language";
-"dropdown_language" = "Language";
-"settings" = "Settings";
-"done" = "Done";
-"warning_alert" = "Warning";
+"connection_settings" = "接続設定";
+"auto_connect_on_launch" = "起動時に自動接続";
+"connection_logs" = "接続ログ";
+"network_configuration" = "ネットワーク構成";
+"device_ip" = "デバイス IP";
+"tunnel_ip" = "トンネル IP";
+"subnet_mask" = "サブネットマスク";
+"app_information" = "アプリ情報";
+"privacy_policy" = "プライバシーポリシー";
+"data_collection_policy" = "データ収集ポリシー;
+"app_version" = "アプリバージョン";
+"help_and_support" = "ヘルプとサポート";
+"language" = "言語を設定";
+"dropdown_language" = "言語";
+"settings" = "設定";
+"done" = "完了";
+"warning_alert" = "警告";
 "warning_message" = "Changing tunnel IP settings can disrupt your network connection. Proceed only if you are sure of what you are doing.";
-"understand_button" = "I Understand";
+"understand_button" = "了解";
 
-"data_collection_policy_title" = "Data Collection Policy";
+"data_collection_policy_title" = "データ収集ポリシー";
 "no_data_collection" = "No Data Collection";
 "no_data_collection_description" = "LocalDevVPN DOES NOT collect user data, traffic information, or browsing activity. This app creates a local network tunnel that stays entirely on your device.";
 "local_processing_only" = "Local Processing Only";
 "local_processing_only_description" = "All network traffic and configurations are processed locally on your device. No information ever leaves the device or is transmitted over the Internet.";
-"no_third_party_sharing" = "No Third Party Sharing";
+"no_third_party_sharing" = "第三者との共有なし";
 "no_third_party_sharing_description" = "Since we do not collect data, there is no sharing with third parties. We do not have analytics, tracking, or data collection mechanisms in this app.";
 "why_use_network_permissions" = "Why Use Network Permissions?";
 "why_use_network_permissions_description" = "LocalDevVPN requires network extension permissions to create a local network interface on your device. This is used exclusively for local development and testing.";
 "our_promise" = "Our Promise";
 "our_promise_description" = "We are committed to privacy and transparency. This app is designed for developers to test and connect to local servers with no privacy concerns.";
-"data_collection_policy_nav" = "Data Collection";
+"data_collection_policy_nav" = "データ収集;
 "logs_nav" = "Logs";
-"faq_header" = "Frequently Asked Questions";
+"faq_header" = "よくある質問";
 "faq_q1" = "What does this app do?";
 "faq_q1_a1" = "LocalDevVPN creates a local network interface for development and testing. It does not route traffic through external servers: everything stays on the device.";
 "faq_common_use_cases" = "Common use cases include:";
