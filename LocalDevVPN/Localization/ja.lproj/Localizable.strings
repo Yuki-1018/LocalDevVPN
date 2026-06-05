@@ -12,7 +12,7 @@
 "local_tunnel_inactive" = "Local Tunnel Inactive";
 
 "connected_to_ip" = "Connected to %@";
-"connected_at" = "Connected at";
+"connected_at" = "接続時刻";
 "ios_might_ask_you_to_allow_the_vpn" = "iOS might ask you to allow the VPN";
 "disconnecting_safely" = "Disconnecting safely…";
 "open_settings_to_review_details" = "Open Settings to review details";
@@ -38,7 +38,7 @@
 "time_connected" = "Time Connected";
 "status" = "ステータス";
 "active" = "アクティブ";
-"network_interface" = "Network Interface";
+"network_interface" = "ネットワークインターフェース";
 "local" = "ローカル";
 "assigned_ip" = "割り当てられたIP";
 
@@ -147,7 +147,7 @@
 "setup_skip" = "Skip";
 
 /*MARK: Restart pop-up*/
-"restart_title" = "Restart";
-"restart_message" = "To apply the changes, you need to restart the application.";
-"confirmYes" = "Yes";
-"confirmNo" = "No";
+"restart_title" = "再起動";
+"restart_message" = "変更を適用するにはアプリを再起動する必要があります。";
+"confirmYes" = "はい";
+"confirmNo" = "いいえ";
