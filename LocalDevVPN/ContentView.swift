@@ -1142,6 +1142,7 @@ struct SettingsView: View {
                         Text("korean").tag("ko")
                         Text("TChinese").tag("zh-Hant")
                         Text("french").tag("fr")
+                        Text("japanese").tag("ja")
                     }
                     .onChange(of: selectedLanguage) { newValue in
                         let languageCode = newValue
@@ -1539,7 +1540,7 @@ struct SetupPageView: View {
 class LanguageManager: ObservableObject {
     static let shared = LanguageManager()
     @Published var currentLanguage: String = Locale.current.languageCode ?? "en"
-    private let supportedLanguages = ["en", "es", "it", "pl", "ko", "zh-Hant", "fr"]
+    private let supportedLanguages = ["en", "es", "it", "pl", "ko", "zh-Hant", "fr", "ja"]
 
     func updateLanguage(to languageCode: String) {
         if supportedLanguages.contains(languageCode) {
