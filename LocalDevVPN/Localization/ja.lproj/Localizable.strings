@@ -21,16 +21,16 @@
 "connection" = "接続";
 "start_or_stop_the_secure_local_tunnel" = "Start or stop the secure local tunnel.";
 
-"connect" = "Connect";
-"disconnect" = "Disconnect";
-"connecting_ellipsis" = "Connecting...";
-"disconnecting_ellipsis" = "Disconnecting...";
+"connect" = "接続する";
+"disconnect" = "切断する";
+"connecting_ellipsis" = "接続中...";
+"disconnecting_ellipsis" = "切断中...";
 "server_address_name" = "LocalDevVPN Local Tunnel";
 
 "auto-connect_on_launch" = "Auto-connect on launch";
 "resume_your_last_state_automatically" = "Resume your last state automatically.";
 
-"session_details" = "Session details";
+"session_details" = "セッションの詳細";
 "live_stats_while_the_tunnel_is_connected" = "Live stats while the tunnel is connected.";
 "local_device_ip" = "Local device IP";
 
