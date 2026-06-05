@@ -36,11 +36,11 @@
 
 "local_tunnel_details" = "Tunnel Details";
 "time_connected" = "Time Connected";
-"status" = "Status";
-"active" = "Active";
+"status" = "ステータス";
+"active" = "アクティブ";
 "network_interface" = "Network Interface";
-"local" = "Local";
-"assigned_ip" = "Assigned IP";
+"local" = "ローカル";
+"assigned_ip" = "割り当てられたIP";
 
 /* MARK: Locales */
 "english"                  = "英語";
@@ -75,7 +75,7 @@
 "understand_button" = "了解";
 
 "data_collection_policy_title" = "データ収集ポリシー";
-"no_data_collection" = "No Data Collection";
+"no_data_collection" = "データ収集なし";
 "no_data_collection_description" = "LocalDevVPN DOES NOT collect user data, traffic information, or browsing activity. This app creates a local network tunnel that stays entirely on your device.";
 "local_processing_only" = "Local Processing Only";
 "local_processing_only_description" = "All network traffic and configurations are processed locally on your device. No information ever leaves the device or is transmitted over the Internet.";
@@ -86,7 +86,7 @@
 "our_promise" = "Our Promise";
 "our_promise_description" = "We are committed to privacy and transparency. This app is designed for developers to test and connect to local servers with no privacy concerns.";
 "data_collection_policy_nav" = "データ収集;
-"logs_nav" = "Logs";
+"logs_nav" = "ログ";
 "faq_header" = "よくある質問";
 "faq_q1" = "What does this app do?";
 "faq_q1_a1" = "LocalDevVPN creates a local network interface for development and testing. It does not route traffic through external servers: everything stays on the device.";
